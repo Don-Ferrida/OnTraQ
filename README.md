@@ -88,7 +88,7 @@ On the **frontend**, the dashboard uses `axios` to fetch weekly time logs. The `
 
 **Backend:**
 
-git clone https://github.com/your-repo/ontraq-extension.git
+git clone https://github.com/Don-Ferrida/OnTraQ.git
 
 cd backend
 
